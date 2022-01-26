@@ -1,8 +1,8 @@
 <div align="center">
-<a href="#"><img width="60%" height="auto"  src="https://blush.design/api/download?shareUri=WsjLf9BmSiEKo8m6&w=800&h=800&fm=png" height="175px"/></a>
+<a href="#"><img width="20%" height="auto"  src="https://blush.design/api/download?shareUri=WsjLf9BmSiEKo8m6&w=800&h=800&fm=png" height="175px"/></a>
 </div>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Mainak</h1>
-<h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
+<h3 align="center">I'm a passionate full-stack developer from India.</h3>
 
 
 ## 🙋‍♂️ About Me
@@ -40,7 +40,7 @@
 
 <p align="center">
     <a href="https://github.com/Mainakroy050/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Mainakroy050&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mainak Roy's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Mainakroy050&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
@@ -51,8 +51,6 @@
   <a href="https://github.com/Mainakroy050/github-readme-stats"><img alt="Mainak Roy's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mainakroy050&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
-
 <br/>
 <br/>
 
