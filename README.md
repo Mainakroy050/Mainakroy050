@@ -9,6 +9,8 @@
 
 - 🔭 I’m currently working on **[JWOC](https://github.com/JGEC-Winter-of-Code)**
 
+- 📚 Persuing B.Tech in ECE **Currently I'm in my 3rd year**
+
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
