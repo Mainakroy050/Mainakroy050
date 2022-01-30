@@ -2,7 +2,7 @@
 <a href="#"><img width="20%" height="auto"  src="https://blush.design/api/download?shareUri=WsjLf9BmSiEKo8m6&w=800&h=800&fm=png" height="175px"/></a>
 </div>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Mainak</h1>
-<h3 align="center">I'm a passionate full-stack enthusiast from India.</h3>
+<h3 align="center">I'm a B.tech undergrad & full-stack enthusiast from India.</h3>
 
 
 ## 🙋‍♂️ About Me
