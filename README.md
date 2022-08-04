@@ -7,7 +7,6 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[JWOC](https://github.com/JGEC-Winter-of-Code)**
 
 - 📚 Persuing B.Tech in ECE **Currently I'm in my 3rd year**
 
