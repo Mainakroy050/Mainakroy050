@@ -8,7 +8,7 @@
 ## 🙋‍♂️ About Me
 
 
-- 📚 Persuing B.Tech in ECE **Currently I'm in my 3rd year**
+- 📚 Persuing B.Tech in ECE **Currently I'm in my Final year**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
